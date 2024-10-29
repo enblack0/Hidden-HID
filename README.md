@@ -12,6 +12,6 @@ The additional height required to maintain contact with the USB pins is achieved
 
 ![image](https://github.com/user-attachments/assets/543ea441-b182-4ffd-accd-466a0fadc2e3)
 
-Here you will find schematics and gerber files. The firmware is a work in progress and not currently uploaded.
+Here you will find kicad design files. The firmware is a work in progress and not currently uploaded.
 
 
