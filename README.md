@@ -6,7 +6,7 @@ Once inserted it is almost invisible to those unaware of its presence.
 
 
 It consists of a single 8x12x0.4mm PCB with USB contacts on the top layer and an STM32 on the bottom.
-The additional height required to maintain contact with the USB pins is achieved with 3 LEDs soldered to the pads on either side. These are not electrically connected.
+The additional height required to maintain contact with the USB pins is achieved with 3 1206 LEDs with height 1.8mm soldered to the pads on either side. These are not electrically connected.
 
 ![image](https://github.com/user-attachments/assets/e772f168-9b0c-4c26-a682-26d76c01000c)
 
